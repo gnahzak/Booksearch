@@ -21,7 +21,6 @@ public class BookDetailActivity extends AppCompatActivity {
     private TextView tvTitle;
     private TextView tvAuthor;
     private ShareActionProvider miShareAction;
-    private Intent shareIntent;
 
 
 
