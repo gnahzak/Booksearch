@@ -25,6 +25,7 @@ public class BookDetailActivity extends AppCompatActivity {
 
         // Extract book object from intent extras
 
+
         // Use book object to populate data into views
     }
 
